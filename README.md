@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.4.
 
+<p>To start project, first you need node js.</p>
+<p>Run "npm install" in bash.</p>
+<p>Run ng serve and open on http://localhost:4200/</p>
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
