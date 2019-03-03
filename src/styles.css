@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+html {
+    min-width: 360px;
+  }
+  
+  html body {
+    font-family: "Titillium Web", sans-serif;
+    color: rgb(52, 58, 64);
+    background-color: white;
+}
+a{
+  color: #f4f2f2;
+}

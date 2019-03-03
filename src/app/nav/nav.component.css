@@ -1,0 +1,25 @@
+#logo-image {
+    width: 65px;
+    min-width: 30px !important;
+    max-width: 65px !important;
+  }
+  
+  #logo-text {
+    font-size: 25px;
+    color:#ea3a3a;
+    font-family: "Satisfy", sans-serif;
+  }
+  
+  .navbar {
+    font-weight: bold;
+    opacity: 0.9;
+    border-bottom: 3px solid #ea3a3a;
+    background-color:rgb(0, 21, 56);
+  }
+  .navbar a:hover {
+    color:#ea3a3a;
+  }
+  
+  #navbarSupportedContent {
+    min-height: 100% !important;
+  }
